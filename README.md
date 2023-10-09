@@ -9,6 +9,7 @@ Here I'll try to understand the concepts of Web GPU API and learn WGSL.
 Other:
 
 - [gfxfundamentals](https://github.com/gfxfundamentals)
+- [TheBookOfShaders](https://thebookofshaders.com/00/?lan=ru)
 
 - [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
 - [GPU.js](https://github.com/gpujs/gpu.js#demos)
