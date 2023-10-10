@@ -28,3 +28,6 @@ Here I'll try to understand the concepts of Web GPU API and learn WGSL.
 - [TensorFlow.js](https://github.com/tensorflow/tfjs)
 - [GPU.js](https://github.com/gpujs/gpu.js#demos)
 - [Blink.js](https://github.com/gormonn/blinkjs)
+
+# Tensorflow examples
+- [Gallery](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
