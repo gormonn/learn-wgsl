@@ -26,6 +26,7 @@ Here I'll try to understand the concepts of Web GPU API and learn WGSL.
 - [TensorFlow.js WebGPU](https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-webgl), серверная часть WebGPU для браузера.
 - [TensorFlow.js React Native](https://github.com/tensorflow/tfjs/blob/master/tfjs-react-native), платформа React Native через адаптер expo-gl.
 - [TensorFlow.js](https://github.com/tensorflow/tfjs)
+- [TensorFlow.js Docs](https://js.tensorflow.org/api/latest/?_gl=1*zql8qz*_ga*MTA1MjU0MTc2Mi4xNjk2OTYwOTI4*_ga_W0YLR4190T*MTY5Njk2MDkyNy4xLjEuMTY5Njk2MjU5NS4wLjAuMA..)
 - [GPU.js](https://github.com/gpujs/gpu.js#demos)
 - [Blink.js](https://github.com/gormonn/blinkjs)
 
