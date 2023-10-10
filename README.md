@@ -14,10 +14,16 @@ Other:
 - [Shadertoy](https://www.shadertoy.com/new#)
 - [A WGSL playground inspired by Shadertoy](https://github.com/fralonra/wgshadertoy)
   
+- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
+- [webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals)
 - [Shade - Pro Shader Editor](https://shade.to/)
 
-- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)
-- [GPU.js](https://github.com/gpujs/gpu.js#demos)
+# WebGPGPU (General Purpouse)
 - [WebGL2 General Purpose Computation Library](https://github.com/npny/webgpgpu)
+- [TensorFlow.js WebGL Backend](https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-webgl), WebGL-бэкенд для браузера.
+- [TensorFlow.js WASM Backend](https://github.com/tensorflow/tfjs/blob/master/tfjs-backend-wasm), бэкенд WebAssembly для браузера.
+- [TensorFlow.js WebGPU](https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-webgl), серверная часть WebGPU для браузера.
+- [TensorFlow.js React Native](https://github.com/tensorflow/tfjs/blob/master/tfjs-react-native), платформа React Native через адаптер expo-gl.
+- [TensorFlow.js](https://github.com/tensorflow/tfjs)
+- [GPU.js](https://github.com/gpujs/gpu.js#demos)
 - [Blink.js](https://github.com/gormonn/blinkjs)
-- [webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals)
